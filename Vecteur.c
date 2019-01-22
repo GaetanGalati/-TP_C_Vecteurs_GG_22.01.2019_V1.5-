@@ -4,7 +4,7 @@
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //Description :  Addition de deux vecteur
 //
-//Entrées : deux  type structuré vecteur
+//EntrÃ©es : deux  type structurÃ© vecteur
 //
 //Sortie : une addition des deux vecteurs
 //
@@ -22,14 +22,13 @@ void AdditionVec(tVect vec, tVect vec2){
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //Description :  soustraction de deux vecteur
 //
-//Entrées : deux  type structuré vecteur
+//EntrÃ©es : deux  type structurÃ© vecteur
 //
 //Sortie : une soustraction des deux vecteurs
 //
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 void SouctracVec(tVect vec, tVect vec2){
-
-    tVect tempo;
+    
     tVect result;
     result.nX = vec.nX-vec.nY;
     result.nY = vec2.nX*-1+vec2.nY*-1;
