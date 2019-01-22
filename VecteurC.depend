@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548149239 source:c:\users\skyfu\documents\projetcodeblocks\vecteurc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"VecteurHead.h"
+
+1548148252 c:\users\skyfu\documents\projetcodeblocks\vecteurc\vecteurhead.h
+
+1548149207 source:c:\users\skyfu\documents\projetcodeblocks\vecteurc\vecteur.c
+	<stdio.h>
+	<stdlib.h>
+	"VecteurHead.h"
+
